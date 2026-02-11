@@ -31,3 +31,5 @@ Credit/Debit segmentation
 Suspicious transaction detection
 
 Cumulative trend analysis.
+
+https://github.com/Minib4u/Banking-Transaction-And-Risk-Analysis./blob/main/1d.png
