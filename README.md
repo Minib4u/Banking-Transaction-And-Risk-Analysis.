@@ -31,9 +31,3 @@ Credit/Debit segmentation
 Suspicious transaction detection
 
 Cumulative trend analysis.
-
-
-
-🎯 Interview explanation script (how to explain this in 2 minutes)
-
-Just tell me 👍
